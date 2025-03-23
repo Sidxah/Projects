@@ -1,0 +1,1 @@
+ KEY_J |  KEY_E |  KEY_K |  KEY_D |  KEY_J |  KEY_A |  KEY_L |  KEY_S |  KEY_K |  KEY_ENTER |  KEY_LEFTCTRL |  KEY_C | 

@@ -1,49 +1,75 @@
-# 💻 Projects by Sidxah
+<div align="center">
 
-Bienvenue dans ce dépôt regroupant une sélection de mes projets personnels et universitaires réalisés durant mon parcours en informatique. On y retrouve des travaux en C, Python, Java, Web, et bien plus.
+# 📚 Academic Projects
+
+**A collection of projects from my Computer Science & Mathematics studies**
+
+[![Made with Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Made with Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://java.com)
+[![Made with C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+
+</div>
 
 ---
 
-## 🧩 Organisation des projets
+> **Looking for my main research project?** Check out [**CLIP from Scratch**](https://github.com/Sidxah/CLIP-from-scratch) — a complete PyTorch implementation of CLIP with educational documentation.
 
-### 🔐 keyLogger
-Un keylogger en C permettant de capturer les frappes clavier. Projet réalisé pour apprendre la programmation système et la gestion des fichiers.
+---
 
-### 🏨 HotelFinder-main
-Application Python avec base de données pour la gestion d'hôtels : réservations, calendrier, et affichage sur carte. Projet combinant SQL, GUI et géolocalisation.
+## 🗂️ Projects Overview
 
-### 🕹️ EXAPUNKS-main
-Jeu en Java simulant un environnement de piratage dans un univers rétro-futuriste. Projet axé sur la POO, la gestion de fichiers et l'interface graphique.
+| Project | Language | Domain | Description |
+|---------|----------|--------|-------------|
+| [**HiParis**](./HiParis) | Python | ML/Data Science | 🏆 Hi! Paris Hackathon — Ensemble ML models on PISA education data |
+| [**Sentiment Analysis**](./Sentiment%20Analysis) | Python | NLP | IMDB sentiment classification with Scikit-learn |
+| [**Knapsack**](./Knapsack) | Python | Algorithms | Comparison of DP, Greedy, and Backtracking approaches |
+| [**HotelFinder**](./HotelFinder) | Python | Full-Stack | Hotel management app with SQL, GUI, and geolocation |
+| [**EXAPUNKS**](./EXAPUNKS) | Java | Game Dev | Retro-futuristic hacking simulation game (OOP) |
+| [**Wikicomptines**](./Wikicomptines) | C | Systems/Networks | Client-server protocol with TCP sockets and threads |
+| [**Keylogger**](./Keylogger) | C | Systems | Low-level keyboard capture (educational purpose) |
+| [**Programmation Fonctionnelle**](./Programmation%20fonctionnelle) | OCaml | Functional | Functional programming exercises and projects |
 
-### 🧠 HiParis
-Projet réalisé dans le cadre d’un hackathon Hi! Paris. Analyse de données et machine learning appliqués à un jeu de données réel.
+---
 
-### 🎒 Knapsack
-Comparaison d’algorithmes pour le problème du sac à dos : programmation dynamique, glouton, backtracking. Analyse de performance et visualisation des résultats.
+## 🎯 Highlights
 
-### 🧒 Wikicomptines-main / WCP
-Projet réseau en C : protocole client-serveur pour le partage de comptines. Implémente des sockets TCP, gestion de threads et synchronisation.
+### 🏆 HiParis Hackathon (Top 3 / 400+)
+Built ensemble ML models (XGBoost, LightGBM, GradientBoosting) to predict student performance from 1.7M PISA records. Advanced feature engineering with 50%+ missing data handling.
 
 ### 📊 Sentiment Analysis
-Projet Jupyter Notebook sur l’analyse de sentiments à partir du dataset IMDB. Utilise Pandas, Scikit-learn, NLP.
+End-to-end NLP pipeline: text preprocessing, TF-IDF vectorization, model comparison (Naive Bayes, SVM, Logistic Regression).
+
+### 🔌 Wikicomptines (Network Programming)
+Implemented a complete client-server architecture in C with:
+- TCP socket communication
+- Multi-threaded server
+- Custom protocol design
+- Thread synchronization
 
 ---
 
-## 🔧 Technologies utilisées
+## 🛠️ Skills Demonstrated
 
-- `C`, `Python`, `Java`, `OCaml`
-- `HTML`, `CSS`, `JavaScript`
-- `MySQL`, `PostgreSQL`
-- `git`, `make`, `bash`, `socket`, `thread`
-
----
-
-## 📚 À propos
-
-Je suis étudiant en L3 Informatique, passionné par les systèmes, l’IA, la cybersécurité et le développement de solutions concrètes. Ce dépôt est un reflet de mon apprentissage continu et de mon envie d’explorer des domaines variés.
+```
+Languages:        Python • Java • C • OCaml • SQL • HTML/CSS/JS
+ML/Data:          Scikit-learn • Pandas • XGBoost • LightGBM
+Concepts:         OOP • Functional Programming • Network Programming
+                  Algorithms • Data Structures • Databases
+```
 
 ---
 
-## 📬 Contact
+## 📍 About Me
 
-- GitHub : [@Sidxah](https://github.com/Sidxah)
+**Sid Ahmed Bouamama**  
+M1 Computer Science @ Paris-Saclay | Research Focus: Vision-Language Models
+
+- 🔬 **Current Research**: [CLIP from Scratch](https://github.com/Sidxah/CLIP-from-scratch)
+- 🌐 **Portfolio**: [sidxah.github.io](https://sidxah.github.io)
+- 💼 **LinkedIn**: [sid-ahmed-bouamama](https://www.linkedin.com/in/sid-ahmed-bouamama/)
+
+---
+
+## 📄 License
+
+These projects were created for educational purposes during my studies at Sorbonne Paris Nord University (2021-2024).
